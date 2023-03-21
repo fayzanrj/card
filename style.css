@@ -207,7 +207,7 @@ button{
     }
 }
 
-@media (max-height:700px)  {
+/* @media (max-height:700px)  {
     .container{
         flex-direction: column;
         height: 120vh;
@@ -221,4 +221,4 @@ button{
     .card-section{
         height: 40vh;
     }
-}
+} */
