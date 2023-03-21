@@ -229,7 +229,7 @@ button{
 
     .card-section .card .card-front{
         left: 25%;
-        top: 42%;
+        top: 45%;
     }
 
     .card-section .card .card-front .sec-2{
@@ -245,7 +245,7 @@ button{
 @media (max-width:685px) {
     .card-section .card .card-front{
         left: 20%;
-        top: 44%;
+        top: 45%;
     }
 
     .card-section .card .card-back{
@@ -256,7 +256,7 @@ button{
 @media (max-width:550px) {
     .card-section .card .card-front{
         left: 15%;
-        top: 44%;
+        top: 45%;
     }
 
     .card-section .card .card-back{
@@ -267,7 +267,7 @@ button{
 @media (max-width:470px) {
     .card-section .card .card-front{
         left: 8%;
-        top: 44%;
+        top: 45%;
     }
 
     .card-section .card .card-back{
