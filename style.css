@@ -207,7 +207,7 @@ button{
     }
 }
 
-@media (max-height:700px) and (max-width:888px) {
+@media (max-height:700px)  {
     .container{
         flex-direction: column;
         height: 120vh;
