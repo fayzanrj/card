@@ -154,6 +154,7 @@ button{
         padding: 1% 4%;
     }
 
+
     .card-section .card .card-front,
     .card-section .card .card-back{
         width: 18rem;
@@ -203,5 +204,21 @@ button{
     .card-section .card .card-back{
         left: 21%;
         top: 5%;
+    }
+}
+
+@media (max-height:700px) and (max-width:888px) {
+    .container{
+        flex-direction: column;
+        height: 120vh;
+    }
+    .form-section,
+    .card-section{
+        width: 100%;
+        height: 80vh;
+    }
+
+    .card-section{
+        height: 40vh;
     }
 }
